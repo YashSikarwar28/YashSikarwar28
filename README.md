@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Sikarwar</h1>
-<h3 align="center">🎓 I'm a Computer Science undergraduate passionate about solving real-world problems with code.</h3>
+<h1 align="center">Hello World 👋, I'm Yash Sikarwar</h1>
+<h3 align="center">🎓 A Computer Science undergraduate passionate about solving real-world problems with code.</h3>
 <img align="right" alt="coding" width="300" margin-top="40px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ3eDFtMWhmMjcyMW1zb210MW1jZzYxNWc2bXV0cnNoYnkxdWRpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsikarwar28&label=Profile%20views&color=0e75b6&style=flat" alt="yashsikarwar28" /> </p>
