@@ -12,7 +12,7 @@
 
 - 💬 Ask me about : **React JS , Express JS , Python and JavaScript.**
 
-- 📫 How to reach me : **yashsikarwar005gmail.com**
+- 📫 How to reach me : **yashsikarwar005@gmail.com**
 
 - ⚡ Fun fact : **If debugging is the process of removing bugs, then programming must be the process of putting them in.**
 
