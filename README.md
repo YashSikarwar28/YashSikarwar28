@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsikarwar28&label=Profile%20views&color=0e75b6&style=flat" alt="yashsikarwar28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsikarwar28" alt="yashsikarwar28" /></a> </p>
-
 - 🌱 I’m currently learning : **MERN Stack, Next JS and DSA**
 
 - 👨‍💻 My first MERN project : [https://curious-stardust-9f9080.netlify.app/](https://curious-stardust-9f9080.netlify.app/)
