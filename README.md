@@ -27,13 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSikarwar28&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
-
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   
