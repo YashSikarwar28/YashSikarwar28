@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://backiee.com/static/wallpapers/1920x1080/396529.jpg" alt="Yash Sikarwar Banner" width="80%" />
-</p>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashSikarwar28&label=Profile%20views&color=0e75b6&style=flat" alt="YashSikarwar28" />
