@@ -23,7 +23,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=YashSikarwar28&theme=cobalt&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSikarwar28&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
