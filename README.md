@@ -21,11 +21,6 @@
 </p>
 
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<p align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=YashSikarwar28&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YashSikarwar28&icon=0&color=0)](https://visitcount.itsvg.in)
