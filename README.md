@@ -99,26 +99,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/YashSikarwar28">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 ### 💡 "Code. Learn. Build. Repeat."
