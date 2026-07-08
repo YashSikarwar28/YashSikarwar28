@@ -71,29 +71,4 @@
 ---
 
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSikarwar28&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSikarwar28&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Code. Learn. Build. Repeat."
-
 </p>
