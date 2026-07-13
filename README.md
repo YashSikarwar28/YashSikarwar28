@@ -75,8 +75,8 @@
 
 <!-- GITHUBWALLPAPER:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=dark&v=3ef0294f002e">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=light&v=3ef0294f002e">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=dark&v=3ef0294f002e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=dark&v=e204d27f7b91">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=light&v=e204d27f7b91">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/702njrsq6nvqtr3fy8dqvnfb?theme=dark&v=e204d27f7b91">
 </picture>
 <!-- GITHUBWALLPAPER:END -->
